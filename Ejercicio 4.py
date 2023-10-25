@@ -5,4 +5,3 @@ if e >= 16:
          print ("¡tiene que tributar!")
 else:
      print ("¡No tiene que tributar!")
-print ("¡No tiene que tributar!")
